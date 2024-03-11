@@ -576,4 +576,4 @@ f = open('TOKEN.txt','r')
 token = f.read()
 f.close()
 
-client.run(token)
+client.run(MTIxNjg3ODcyNzUwNjY5MDE5OQ.Ghjrvo.DH0-jIw3rICNl5f6i9gi4U8ZTdAuIIm8hTM4e4)
